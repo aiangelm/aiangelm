@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aiangelm
+- 👋 Hi, I’m Angel Maynor
 - 👀 I’m interested in web development and design, ux/ui, and automation
 - 🌱 I’m currently learning html, javascript, css, ubuntu linux, and computer architecture
 - 💞️ I’m looking to collaborate on projects and career development 
